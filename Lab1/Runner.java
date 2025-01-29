@@ -1,4 +1,3 @@
-
 public class Runner {
     public static void main(String[] args) {
         // Define the training data: 4 input pairs for logical operations (AND/OR).
