@@ -21,7 +21,6 @@
  * and trademarks visit:
  * http://www.heatonresearch.com/copyright
  */
-package ie.atu.sw;
 
 import org.encog.Encog;
 import org.encog.engine.network.activation.ActivationReLU;

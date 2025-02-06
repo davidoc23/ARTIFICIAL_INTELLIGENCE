@@ -1,4 +1,3 @@
-package ie.atu.sw;
 import org.encog.ml.data.MLData;
 import org.encog.ml.data.MLDataPair;
 import org.encog.ml.data.basic.BasicMLDataSet;

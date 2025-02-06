@@ -1,4 +1,3 @@
-package ie.atu.sw;
 import org.encog.engine.network.activation.ActivationSigmoid;
 import org.encog.ml.data.MLData;
 import org.encog.ml.data.MLDataPair;
